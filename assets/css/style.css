@@ -1,0 +1,77 @@
+.cuerpo{
+    background-color: rgb(121, 212, 248); 
+      font-family: Roboto;
+      font-size: 17px;
+}
+
+.h2{
+    margin-top: 30px;
+    margin-left: 40px;
+    color:white;
+}
+
+.h22{
+    color: white ;
+    
+}
+
+.es{
+    margin-top: 10px;
+}
+
+.fil{
+    position: relative;
+    top:45px;
+    margin-left: 700px;
+}
+ 
+.hc{
+    color: rgb(121, 212, 248);
+}
+
+.bg{
+    background-color: white;
+    color:rgb(121, 212, 248) ;
+}
+
+.con{
+    margin-top: 50px;
+    margin-bottom: 10px;
+}
+
+.bt{
+    margin-top: 5px;
+}
+
+.ch{
+    color: white;
+    background-color: rgb(121, 212, 248);
+    margin-bottom: 10px;
+    padding: 10px 20px;
+    
+}
+
+
+.forma{
+    margin: auto;
+    width: 450px; 
+    padding: 10px 20px;
+    margin-top: 60px;
+    border-radius: 7px;
+}
+
+input {
+    width: 100%;
+    margin-bottom: 20px;
+    font-size: 14px;
+}
+
+.p{
+    color: white;
+    margin-top: 10px;
+}
+
+label, h3, p, h5 {
+    color: rgb(121, 212, 248);
+}
+
